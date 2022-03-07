@@ -13,35 +13,26 @@ This repository holds my version of the "Eye Exercise" from WEEK 8 of the "MIT x
 
 ### Dependencies
 
-* MIT xPRO: "EyeExercise" Starter Code, embedded and refactored in this project.
+* MIT xPRO: "Eye Exercise" Starter Code, embedded, refactored, and extended in this project.
+
 
 ### Installing
 
-* Copy this file into your repository.
-```
-..\GitHub\README-Template> copy README-Template.md  ..\GitHub\<New-Repository>\README.md
-```
+* Clone this repo and open index.html
 
-* In you new repo edit the README.md and make specific to your project.
+<p align="left"><img src=".\images\repo.png" width="1024" title="Eye Exercise Repository Files..."></p>
 
-<p align="left"><img src=".\images\<image1>.png" width="1024" title="Alternate Text #1..."></p>
+* Demonstration of the game...
 
-* Make notes here about installing your project
-* Include images as needed in the \images folder as .PNGs
-
-<p align="left"><img src=".\images\<image2>.png" width="1024" title="Alternate Text #2..."></p>
-
-* Include videos as needed in the \videos folder as .MP4s
-* Drag the video into your README.md once in GitHub and then copy the link in the code below.
-
-<video id="demo-video" style="border-style:solid; border-width:2px" src="https://user-images.githubusercontent.com/<path-to-uploaded-video-in-github>demo.mp4" width="1024" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *" loop autoplay autobuffer controls muted>
+<video id="demo-video" style="border-style:solid; border-width:2px" src="https://user-images.githubusercontent.com/8990676/156948541-4aa4e8cc-4bd8-4c28-8b2f-5de4ffda358c.mp4" width="1024" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *" loop autoplay autobuffer controls muted>
 Your browser does not support the HTML5 player.
 </video>
 </p>
 
+
 ## Help
 
-Describe how to get help with this project.
+This is an unsupported demonstation project.
 
 
 
@@ -59,40 +50,33 @@ Describe how to get help with this project.
 
 Contributors names and contact info
 
+* Dr. John Williams (MIT) [@Unknown](https://twitter.com/Unknown)
+
 * Timothy J McGuire [@TimothyMcGuire](https://twitter.com/TimothyMcGuire)
+
 
 
 ## Release History
 
+* 0.2
+    * Added the use of Google Fonts, with Page Title for demonstration.
 * 0.1
-    * Various bug fixes and optimizations
+    * Refactored into the MicroCODE [MCODE] style and templates.
     * See [commit change]() or See [release history]()
 * 0.0
-    * Initial Release
-
+    * Cloned the MIT Starter Code.
 
 ## Future Development
 
-* 0.n
-    * New Feature: Short description
-    * New Feature: Short description
-    * Fix Defects: Short description
-    * Fix Defects: Short description
+* 0.3
+    * New Feature: Make the Eyes go cross-eyed when the mouse is between them.
+    * New Feature: Add the ability to generate pairs of eyes of random sizes.
+    * Fix Defects: None open at this time.
 
-* 0.n+1
-    * New Feature: Short description
-    * New Feature: Short description
-    * Fix Defects: Short description
-    * Fix Defects: Short description
+* 0.4
+    * New Feature: Use a Bootstrap Styles for new control buttons.
 
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [AirBnb's JS StyleGuide](https://github.com/airbnb/javascript)
